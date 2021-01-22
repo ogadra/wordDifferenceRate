@@ -12,3 +12,4 @@ text = mecab.parse(text)
 textList = text.split(' ')
 textSet = set(textList)
 print(len(textSet) / len(textList))
+# 0.26256281407035176
