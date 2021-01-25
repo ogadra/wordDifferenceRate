@@ -18,5 +18,6 @@ textSet = set(textList)
 
 print(len(textSet) / len(textList))
 print(len(textSet), len(textList))   
-# 674 / 3806
-# 0.1991095720999258
+#理想値 674 / 3806
+#実数値 809 / 3765
+# 0.2148738379814077
